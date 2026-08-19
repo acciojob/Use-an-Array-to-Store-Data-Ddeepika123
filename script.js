@@ -1,2 +1,2 @@
-let simpleArray = ['one', 2, 'three', true, false, undefined, null];
+let simpleArray = ['one', 2, true, "java", 100];
 console.log(simpleArray.length);
